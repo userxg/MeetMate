@@ -1,6 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
-import ProfileCard from './components/ProfileCard';
+import ProfileCard from './components/ProfileCard/ProfileCard';
 import './App.css';
 
 const App: React.FC = () => {
